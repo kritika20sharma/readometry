@@ -1,2 +1,4 @@
 # readometry
-a simple reading program ,from beginners 
+my first repository on github
+___a simple reading program ,for beginners__
+
